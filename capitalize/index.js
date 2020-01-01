@@ -36,5 +36,5 @@ const solution2 = str => {
   return result;
 };
 
-console.log(solution1("apple pen"));
+console.log(capitalize("apple pen"));
 module.exports = capitalize;

@@ -11,5 +11,17 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {
+    "jest": "^24.9.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShotaTogawa/coding-practice.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/ShotaTogawa/coding-practice/issues"
+  },
+  "homepage": "https://github.com/ShotaTogawa/coding-practice#readme"
 }
